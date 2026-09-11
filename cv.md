@@ -32,3 +32,10 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
   * BMGM (as Frontend Developer) 2025-2026
   * Dreamfin (as Frontend Developer) 2024-2025
 
+### Education
+  * Html Academy 2024
+  * Hexlet 2024
+
+  ### Languages
+  1. Russian (native)
+  2. English B1
