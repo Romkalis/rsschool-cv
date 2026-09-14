@@ -11,5 +11,3 @@ Personal CV created using HTML and Markdown.
 
 *Roman Bondarchuk*
 # rsschool-cv
-
-https://romkalis.github.io/rsschool-cv/
