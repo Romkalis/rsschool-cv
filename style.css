@@ -1,0 +1,42 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: rgb(253, 146, 127);
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+    &:hover {
+        color: rgb(246, 38, 1);
+    }
+}
+header, footer {
+    background-color: #f5f5f5;
+    padding: 10px;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1dvh;
+}
+.heading {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+
+    img {
+        border-radius: 50%;
+    }
+}
+.footer__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+blockquote {
+    text-align: center;
+    margin: 0;
+    font-size: 14px;
+}
