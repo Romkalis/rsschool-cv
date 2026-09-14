@@ -13,4 +13,4 @@ Personal CV created using HTML and Markdown.
 # rsschool-cv
 
 https://romkalis.github.io/rsschool-cv/
-https://romkalis.github.io/rsschool-cv/cv/
+https://romkalis.github.io/rsschool-cv/cv
